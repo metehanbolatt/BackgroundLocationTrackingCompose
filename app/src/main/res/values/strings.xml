@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BackgroundLocationTrackingCompose</string>
+    <string name="missing_location_permission">Missing location permission</string>
+    <string name="gps_is_disabled">GPS is disabled.</string>
 </resources>
